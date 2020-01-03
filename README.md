@@ -17,3 +17,10 @@
 > cd NavigationSystem/build-Navigation_system-Desktop_Qt_5_8_0_GCC_64bit-Debug  
 > make  
 > ./NavigationSystem
+# 3.Huffman
+(1)show
+  ![Image text]( https://github.com/g1050/DataStructureCourseDesign/blob/master/NavigationSystem/NS1.png)
+(2)usage
+> cd Huffman/build-Huf-Desktop_Qt_5_8_0_GCC_64bit-Debug  
+> make  
+> ./Huf
